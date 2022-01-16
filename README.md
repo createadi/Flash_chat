@@ -1,16 +1,20 @@
-# flash_chat
 
-A new Flutter project.
+# Flash Chat
 
-## Getting Started
+This project is developed in aspects of common room chat application with minimalistic user interface.
 
-This project is a starting point for a Flutter application.
+The project depends upon Flutter Framework for front-end and back-end operation. The database and authentication is being supported by Firebase.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Step 1: Download or clone this repo by using the link below:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`https://github.com/createadi/Flash_chat.git`
+
+Step 2: Go to project root and execute the following command in console to get the required dependencies:
+
+`flutter pub get`
+
+Step 3: Run the application:
+
+`flutter run`
